@@ -1,4 +1,4 @@
-import { createClient } from '@supabas/supabase-js';
+import { createClient } from '@supabase/supabase-js';
 
 // Read environment variables from Vite. These should be defined in your deployment environment
 // (e.g. Vercel project settings) or a local .env file prefixed with VITE_.
